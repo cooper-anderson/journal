@@ -8,8 +8,8 @@
 
 ### Goals
 
-- [ ] Grasp a deeper understanding of the research project’s underlying concepts
-- [ ] Develop a CTRNN library in JavaScript/TypeScript
+- [x] Grasp a deeper understanding of the research project’s underlying concepts
+- [x] Develop a CTRNN library in JavaScript/TypeScript
 - [ ] Provide a visualization of the library for demonstration purposes
 
 <!-- ### 2021-06-11 -->
