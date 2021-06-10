@@ -56,7 +56,7 @@
 
 - Read through research proposal document
 - Read documentation on existing CTRNN implementations in JS
-- Decided to write a library from scratch as no existing libraries fit our
+  - Decided to write a library from scratch as no existing libraries fit our
   needs without a decent amount of integration
 - Began brainstorming different ways of displaying information to the user for
   the CTRNN visualizer
