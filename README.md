@@ -12,18 +12,23 @@
 - [x] Develop a CTRNN library in JavaScript/TypeScript
 - [ ] Provide a visualization of the library for demonstration purposes
 
-<!-- ### 2021-06-11 -->
+### 2021-06-11
 
-<!-- > **Day 5 `Friday June 11th, 2021` `hr`** -->
+> **Day 5 `Friday June 11th, 2021` `7hr`**
 
-<!-- - -->
+- Succeeded in having [`ctrnn.js`] mimmick the behavior of [`madvn/CTRNN`]
+  - Network now allows for sinusoidal behavior instead of steady state
+- Started integrating the graph/histogram for [`ctrnn-visualizer`]
+- Read/skimmed through the next 2 resources
 
 ### 2021-06-10
 
 > **Day 4 `Thursday June 10th, 2021` `5hr`**
 
+[`madvn/CTRNN`]: https://github.com/madvn/CTRNN
+
 - Read/skimmed through the first 5 resources supplied by Dr. Yoder
-- Analyzed the [madvn/CTRNN](https://github.com/madvn/CTRNN) python library
+- Analyzed the [`madvn/CTRNN`] python library
   - Started using the readme's example as a model for [`ctrnn.js`]
 
 ### 2021-06-09
