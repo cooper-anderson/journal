@@ -16,7 +16,7 @@
 
 > **Day 5 `Friday June 11th, 2021` `7hr`**
 
-- Succeeded in having [`ctrnn.js`] mimmick the behavior of [`madvn/CTRNN`]
+- Succeeded in having [`ctrnn.js`] mimic the behavior of [`madvn/CTRNN`]
   - Network now allows for sinusoidal behavior instead of steady state
 - Started integrating the graph/histogram for [`ctrnn-visualizer`]
 - Read/skimmed through the next 2 resources
