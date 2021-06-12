@@ -18,11 +18,13 @@
 
 <!-- - -->
 
-<!-- ### 2021-06-10 -->
+### 2021-06-10
 
-<!-- > **Day 4 `Thursday June 10th, 2021` `hr`** -->
+> **Day 4 `Thursday June 10th, 2021` `5hr`**
 
-<!-- - -->
+- Read/skimmed through the first 5 resources supplied by Dr. Yoder
+- Analyzed the [madvn/CTRNN](https://github.com/madvn/CTRNN) python library
+  - Started using the readme's example as a model for [`ctrnn.js`]
 
 ### 2021-06-09
 
