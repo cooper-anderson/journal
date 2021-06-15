@@ -1,5 +1,29 @@
 # journal
 
+## Week 2
+
+### Summary
+
+> TODO: upon week completion
+
+### Goals
+
+- [x] Provide a visualization of the library for demonstration purposes
+- [ ] ...
+
+### 2021-06-14
+
+> **Day 6 `Monday June 14th, 2021` `10hr`**
+
+[`cooperuser.dev/ctrnn-visualizer`]: https://cooperuser.dev/ctrnn-visualizer
+
+- Provided a realtime view of the oscillatory behavior in the visualizer
+- Created a parameters panel that allows the user to configure the network
+- Created a static view of the first seconds of simulation of the network
+  - Smooth continuous updates when the user alters a parameter
+- Expose at a public url [`cooperuser.dev/ctrnn-visualizer`]
+  - Secure with an SSL certificate (HTTPS protocol)
+
 ## Week 1
 
 ### Summary
