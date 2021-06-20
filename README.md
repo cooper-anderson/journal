@@ -9,7 +9,39 @@
 ### Goals
 
 - [x] Provide a visualization of the library for demonstration purposes
-- [ ] ...
+- [x] Write a PhasePortrait React component
+- [x] Replace live neuron view with phase portrait
+- [ ] Begin reading about Microbial Genetic Algorithms
+
+### 2022-06-18
+
+> **Day 9 `Friday June 18th, 2021` `4hr`**
+
+- Read through The Microbial Genetic Algorithm multiple times to verify my
+  understanding of the concept before putting it to use.
+
+
+### 2021-06-17
+
+> **Day 8 `Thursday June 17th, 2021` `10hr`**
+
+- Rewrote code to accept new external node activation array system
+- Wrote a React component that renders a phase portrait using HTML canvas
+- Made visualizer iterate over a 20x20 grid of starting activations, and graph
+  their outputs from the ctrnn on the phase portrait
+- Made the phase portrait update in realtime on changes to the parameters
+
+### 2021-06-16
+
+> **Day 7 `Wednesday June 16th, 2021` `9hr`**
+
+- Began rewriting ctrnn library to use an external node activation array
+  - This is preferable as it allows for an easy way to test what the outcome
+    would be from all possible states.
+- Began using this new external node activation array for the phase portrait
+- Began working on the visuals of the phase portrait
+- (now there is an empty space on the visualizer, perhaps we can put some other
+  statistic/view there in the future)
 
 ### 2021-06-14
 
