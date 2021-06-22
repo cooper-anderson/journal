@@ -1,5 +1,26 @@
 # journal
 
+## Week 3
+
+### Summary
+
+> TODO: upon week completion
+
+### Goals
+
+- [x]
+
+### 2022-06-18
+
+> **Day 10 `Monday June 21th, 2021` `8hr`**
+
+- Implemented a path plot to the visualizer's phase portrait
+- Used this plot to determine what was wrong with the vector field
+  - In the end it was me not taking into account the biases when converting
+    from regular space to sigmoid space (phase portrait issue only)
+- Skimmed a few of the papers related to the Microbial Genetic Algorithm paper
+- Began taking a deeper look into Dr. Yoder's `ctrnn_bio_rl` code
+
 ## Week 2
 
 ### Summary
@@ -11,7 +32,7 @@
 - [x] Provide a visualization of the library for demonstration purposes
 - [x] Write a PhasePortrait React component
 - [x] Replace live neuron view with phase portrait
-- [ ] Begin reading about Microbial Genetic Algorithms
+- [x] Begin reading about Microbial Genetic Algorithms
 
 ### 2022-06-18
 
@@ -19,7 +40,6 @@
 
 - Read through The Microbial Genetic Algorithm multiple times to verify my
   understanding of the concept before putting it to use.
-
 
 ### 2021-06-17
 
