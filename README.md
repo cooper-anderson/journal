@@ -8,9 +8,18 @@
 
 ### Goals
 
-- [x]
+- [ ] Wrap up visualizer
+- [ ] Begin using Microbial Genetic Algorithms
 
-### 2022-06-18
+### 2022-06-22
+
+> **Day 11 `Tuesday June 22th, 2021` `4hr`**
+
+- Fixed phase portrait's inverted y-axis
+- Began implementing a timestep slider (still WIP)
+- Began writing an interface for different fitness landscape paths
+
+### 2022-06-21
 
 > **Day 10 `Monday June 21th, 2021` `8hr`**
 
