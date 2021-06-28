@@ -9,7 +9,42 @@
 ### Goals
 
 - [ ] Wrap up visualizer
-- [ ] Begin using Microbial Genetic Algorithms
+- [ ] Strip down Dr. Yoder's ctrnn python library to bare-bones
+  - [x] Base ctrnn functionality
+  - [x] `Evaluator` abstract class for creating different training metrics
+  - [ ] abstract class for creating different learning methods
+- [ ] Different learning algorithms
+  - [ ] Random sampling
+  - [ ] Random walker
+  - [ ] Random hillclimber
+
+### 2022-06-27
+
+> **Day 14 `Sunday June 27th, 2021` `3hr`**
+
+- Finished writing the `Oscillator` `Evaluator` method with some tests
+- Began planning the abstract class to allow for different learning algorithms
+
+### 2022-06-25
+
+> **Day 13 `Friday June 25th, 2021` `5hr`**
+
+- Planned out structure for the `Evaluator` abstract class
+  - Any class extending `Evaluator` would have 5 abstract methods:
+    `pre_transient`, `step_transient`,  `pre_evaluation`, `step_evaluation`,
+    and `generate_report`. By overriding these, we can configure different
+    desired network behaviors, as opposed to oscillation
+- Began and completed the `Evaluator` abstract class
+- Planned and started `Oscillator` class, implementing `Evaluator`
+
+### 2022-06-24
+
+> **Day 12 `Thursday June 24th, 2021` `4hr`**
+
+- Created checklist for the ctrnn python library
+- Started working on the ctrnn python library
+  - Completed the base ctrnn functionality
+  - Included some test cases for safety, but I plan to add more later
 
 ### 2022-06-22
 
