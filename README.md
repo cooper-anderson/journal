@@ -1,5 +1,27 @@
 # journal
 
+## Week 4
+
+### Summary
+
+> TODO: upon week completion
+
+### Goals
+
+- [x] Explore "big" data-visualizers such as wandb.ai and tableau
+
+### 2022-06-28
+
+> **Day 15 `Monday June 28th, 2021` `7hr`**
+
+- Searched for time tracking methods (time-warrior seems to work well for me)
+- Began looking into wandb.ai
+  - Read through documentation
+  - Viewed featured projects for direction
+  - Made a sample oscillation trial
+  - [Link to project](https://wandb.ai/ampersand/oscillation_1)
+
+
 ## Week 3
 
 ### Summary
