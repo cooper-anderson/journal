@@ -10,7 +10,7 @@
 
 - [x] Explore "big" data-visualizers such as wandb.ai and tableau
 
-### 2022-06-28
+### 2021-06-28
 
 > **Day 15 `Monday June 28th, 2021` `7hr`**
 
@@ -40,14 +40,14 @@
   - [ ] Random walker
   - [ ] Random hillclimber
 
-### 2022-06-27
+### 2021-06-27
 
 > **Day 14 `Sunday June 27th, 2021` `3hr`**
 
 - Finished writing the `Oscillator` `Evaluator` method with some tests
 - Began planning the abstract class to allow for different learning algorithms
 
-### 2022-06-25
+### 2021-06-25
 
 > **Day 13 `Friday June 25th, 2021` `5hr`**
 
@@ -59,7 +59,7 @@
 - Began and completed the `Evaluator` abstract class
 - Planned and started `Oscillator` class, implementing `Evaluator`
 
-### 2022-06-24
+### 2021-06-24
 
 > **Day 12 `Thursday June 24th, 2021` `4hr`**
 
@@ -68,7 +68,7 @@
   - Completed the base ctrnn functionality
   - Included some test cases for safety, but I plan to add more later
 
-### 2022-06-22
+### 2021-06-22
 
 > **Day 11 `Tuesday June 22th, 2021` `4hr`**
 
@@ -76,7 +76,7 @@
 - Began implementing a timestep slider (still WIP)
 - Began writing an interface for different fitness landscape paths
 
-### 2022-06-21
+### 2021-06-21
 
 > **Day 10 `Monday June 21th, 2021` `8hr`**
 
@@ -100,7 +100,7 @@
 - [x] Replace live neuron view with phase portrait
 - [x] Begin reading about Microbial Genetic Algorithms
 
-### 2022-06-18
+### 2021-06-18
 
 > **Day 9 `Friday June 18th, 2021` `4hr`**
 
