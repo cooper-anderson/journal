@@ -10,6 +10,14 @@
 
 - [x] Explore "big" data-visualizers such as wandb.ai and tableau
 
+### 2021-06-29
+
+> **Day 16 `Tuesday June 29th, 2021` `1hr`**
+
+- Experimented with wandb.ai's sweep analysis which allowed me to:
+  - Create a parallel coordinates plot
+  - Analyze the results to generate a importance/correlation chart
+
 ### 2021-06-28
 
 > **Day 15 `Monday June 28th, 2021` `7hr`**
