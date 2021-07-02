@@ -13,6 +13,16 @@
   - [x] Adjustable initial conditions
   - [ ] Adjustable timestep in the visualizer
 
+### 2021-07-01
+
+> **Day 18 `Thursday July 1st, 2021` `7hr`**
+
+- Read more of wandb.ai's documentation
+- Created prototype random_sampler, random_walker, and hill_climber
+- Used wandb with the hill_climber to verify it worked properly
+  - Ran 100 instances of hill_climber and logged the results to wandb
+  - Most networks had a fitness close to zero, but one had as high as 0.811
+
 ### 2021-06-30
 
 > **Day 17 `Wednesday June 30th, 2021` `2hr`**
