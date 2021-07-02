@@ -9,6 +9,20 @@
 ### Goals
 
 - [x] Explore "big" data-visualizers such as wandb.ai and tableau
+- [ ] Visualizer
+  - [x] Adjustable initial conditions
+  - [ ] Adjustable timestep in the visualizer
+
+### 2021-06-30
+
+> **Day 17 `Wednesday June 30th, 2021` `2hr`**
+
+- Worked on the visualizer
+  - Adjusted parameter range for the visualizer
+  - Normalized the step axis so it matches what we do elsewhere
+  - Added axis labels to the network graph
+  - Fixed the graphs ignoring the 0th step
+  - Added ability to choose the initial conditions
 
 ### 2021-06-29
 
